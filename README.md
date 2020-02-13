@@ -1,3 +1,5 @@
+![alt text](http://url/to/img.png)
+
 # Create Web App
 
 Create web app saves you time from the basic setup. It's a boilerplate where webpack and babel is already setup and ready to use right out of the box.
