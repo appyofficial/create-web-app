@@ -30,8 +30,6 @@ create-web-app
     webpack.config.js
     package.json
     package-lock.json
-    .babelrc
-    .gitignore
 ```
 
 ## Usage
